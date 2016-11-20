@@ -1,0 +1,13 @@
+
+*.pyc
+*.sqlite3
+.idea/
+
+*.json
+
+*~
+
+collected_static/
+media/
+env/
+
